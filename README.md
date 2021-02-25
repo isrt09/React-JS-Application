@@ -43,7 +43,7 @@ React is an open-source, front end, JavaScript library for building user interfa
   - Active Link
   - React Hooks
   - State
-  - State, Class Component to Functional Component
+  - useState, Class Component to Functional Component
   - Functional Component to Class Component
   - HTML ~ React Template Conversion
 
